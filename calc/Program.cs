@@ -20,7 +20,7 @@ namespace calc
         {
             Console.WriteLine("Calculator App");
             Console.WriteLine("2 + 3 = " + add(2, 3));
-            Console.WriteLine("5 - 2 = " + subtract(5, 2));
+            Console.WriteLine("5 - 3 = " + subtract(5, 3));
             Console.ReadKey();
         }
     }
