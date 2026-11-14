@@ -23,6 +23,7 @@ namespace calc
             Console.WriteLine("5 - 33 = " + subtract(5, 33));
             Console.ReadKey();
             Console.ReadKey();
+            Console.WriteLine("Press any key to exit");
         }
     }
 }
