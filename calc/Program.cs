@@ -22,6 +22,7 @@ namespace calc
             Console.WriteLine("2 + 3 = " + add(2, 3));
             Console.WriteLine("5 - 33 = " + subtract(5, 33));
             Console.ReadKey();
+            Console.ReadKey();
         }
     }
 }
